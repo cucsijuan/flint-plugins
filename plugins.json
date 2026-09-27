@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "counter",
+    "name": "Counter",
+    "author": "Flint contributors",
+    "description": "Turns ```counter code blocks into a button that counts clicks in the note itself.",
+    "repo": "cucsijuan/flint-counter"
+  },
+  {
+    "id": "word-count",
+    "name": "Word count",
+    "author": "Flint contributors",
+    "description": "Shows word and character counts for the current note, and inserts today's date.",
+    "repo": "cucsijuan/flint-word-count"
+  }
+]
