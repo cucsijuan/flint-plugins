@@ -4,13 +4,23 @@
     "name": "Counter",
     "author": "Flint contributors",
     "description": "Turns ```counter code blocks into a button that counts clicks in the note itself.",
-    "repo": "cucsijuan/flint-counter"
+    "repo": "cucsijuan/flint-official-plugins",
+    "tagPrefix": "counter-"
   },
   {
     "id": "word-count",
     "name": "Word count",
     "author": "Flint contributors",
     "description": "Shows word and character counts for the current note, and inserts today's date.",
-    "repo": "cucsijuan/flint-word-count"
+    "repo": "cucsijuan/flint-official-plugins",
+    "tagPrefix": "word-count-"
+  },
+  {
+    "id": "jira",
+    "name": "Jira",
+    "author": "Flint contributors",
+    "description": "Jira issues in your notes: tables from JQL queries, your issues in the sidebar, creating issues, comments and worklogs. Edits are pushed only when you ask. Needs Flint 0.12.",
+    "repo": "cucsijuan/flint-official-plugins",
+    "tagPrefix": "jira-"
   }
 ]
