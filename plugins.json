@@ -22,5 +22,13 @@
     "description": "Jira issues in your notes: tables from JQL queries, your issues in the sidebar, creating issues, comments and worklogs. Edits are pushed only when you ask. Needs Flint 0.12.",
     "repo": "cucsijuan/flint-official-plugins",
     "tagPrefix": "jira-"
+  },
+  {
+    "id": "profiler",
+    "name": "Profiler",
+    "author": "Flint contributors",
+    "description": "Timelines of profiling captures (Perfetto / Chrome trace JSON) in your notes: threads, nested zones colored by category, frames, zoom, search and range statistics, for captures of any size.",
+    "repo": "cucsijuan/flint-official-plugins",
+    "tagPrefix": "profiler-"
   }
 ]
